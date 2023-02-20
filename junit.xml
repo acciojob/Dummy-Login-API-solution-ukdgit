@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="6.404">
+  <testsuite name="Testing the exported element" errors="0" failures="0" skipped="0" timestamp="2020-11-05T17:30:36" time="4.246" tests="3">
+    <testcase classname="Testing the exported element Name of the exported component should be App" name="Testing the exported element Name of the exported component should be App" time="0.002">
+    </testcase>
+    <testcase classname="Testing the exported element component should be exported by default." name="Testing the exported element component should be exported by default." time="0.001">
+    </testcase>
+    <testcase classname="Testing the exported element component should return given JSX element." name="Testing the exported element component should return given JSX element." time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="test ReactDOM.render" errors="0" failures="0" skipped="0" timestamp="2020-11-05T17:30:36" time="4.436" tests="1">
+    <testcase classname="test ReactDOM.render should call ReactDOM.render" name="test ReactDOM.render should call ReactDOM.render" time="0.039">
+    </testcase>
+  </testsuite>
+</testsuites>
